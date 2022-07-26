@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47071590212",
+    "project_id": "paulinaoo",
+    "storage_bucket": "paulinaoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47071590212:android:6c67318bb4ce1f13e24911",
+        "android_client_info": {
+          "package_name": "paulina.org.paulinao1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47071590212-mn0s4hgqupc935ol4p5hc7iqgr3iv8u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuwVlXsIBXNwQcx3aVgl6beWsDApzNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47071590212-mn0s4hgqupc935ol4p5hc7iqgr3iv8u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
